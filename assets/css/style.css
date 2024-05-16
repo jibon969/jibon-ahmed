@@ -26,6 +26,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.blog-img{
+  height: 350px; 
+  width: 700px; 
+  border-radius: 10px;
+  overflow: hidden;
+  display: block;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
